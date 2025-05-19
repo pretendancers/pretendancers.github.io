@@ -1,0 +1,20 @@
+:root {
+    --vp-nav-logo-height: 36px;
+    /* --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(45deg,#F5A4A3 10%, #BCFCCC 40%,#DEF6FF 60%, #EADEFF 90%); */
+  
+    --vp-home-hero-image-background-image: linear-gradient(-45deg, #F5A4A3 15%, #BCFCCC 40%,#DEF6FF 60%, #EADEFF 80%);
+    --vp-home-hero-image-filter: blur(44px);
+  }
+  
+  @media (min-width: 640px) {
+    :root {
+      --vp-home-hero-image-filter: blur(56px);
+    }
+  }
+  
+  @media (min-width: 960px) {
+    :root {
+      --vp-home-hero-image-filter: blur(68px);
+    }
+  }
