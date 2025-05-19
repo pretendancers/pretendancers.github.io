@@ -6,9 +6,10 @@ set -e
 # 生成静态文件
 pnpm :build
 
-# 进入生成的文件夹
-cd www
+# 生成CNAME
+cp CNAME ../docs
 
-# git add .
-# git commit -m "new deploy"
-# git push
+cd ..
+git add .
+git commit -m "new deploy"
+git push

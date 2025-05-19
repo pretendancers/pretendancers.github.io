@@ -13,6 +13,6 @@
   "author": "0098",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.5"
+    "vitepress": "2.0.0-alpha.5"
   }
 }
