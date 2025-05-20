@@ -12,11 +12,11 @@ import {
 
 const coreMembers = [
 	{
-		avatar: '../../0098.webp',
+		avatar: '/about/0098.webp',
 		name: '0098',
 	},
 	{
-		avatar: '../../earth.webp',
+		avatar: '/about/earth.webp',
 		name: '🌎',
 	},
 ]
@@ -27,5 +27,5 @@ const coreMembers = [
     <template #title></template>
     <!-- <template #lead>...</template> -->
   </VPTeamPageTitle>
-  <VPTeamMembers size="medium" :members="coreMembers" />
+  <VPTeamMembers size="small" :members="coreMembers" />
 </VPTeamPage>

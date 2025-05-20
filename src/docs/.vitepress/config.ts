@@ -80,7 +80,7 @@ const shared = defineConfig({
     //   provider: "local",
     // },
     footer: {
-      message: "pretendancers 2024 PREVIEW",
+      message: "pretendancers 2025",
       copyright: "powered by VitePress",
     },
   },
