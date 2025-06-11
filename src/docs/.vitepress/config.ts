@@ -16,21 +16,15 @@ function nav(zh: boolean): DefaultTheme.NavItem[] {
         { text: zh ? "配列布局" : "Layouts", link: link(zh, "/cheerz/layouts") },
         { text: zh ? "包装清单" : "Contents", link: link(zh, "/cheerz/contents") },
         { text: zh ? "安装指南" : "Assembly", link: link(zh, "/cheerz/assembly") },
-        {
-          text: zh ? "键位配置" : "Configuration",
-          link: link(zh, "/cheerz/configuration"),
-        },
-        {
-          text: zh ? "下载支持" : "Support",
-          link: link(zh, "/cheerz/support"),
-        },
+        { text: zh ? "键位配置" : "Configuration", link: link(zh, "/cheerz/configuration") },
+        { text: zh ? "下载支持" : "Support", link: link(zh, "/cheerz/support") },
+        { text: zh ? "致谢" : "Credits", link: link(zh, "/cheerz/credits") },
       ],
     },
     {
       text: zh ? "关于" : "About",
       items: [
         { text: zh ? "团队" : "Team", link: link(zh, "/team") },
-        { text: zh ? "致谢" : "Credits", link: link(zh, "/credits") },
       ],
     },
   ];

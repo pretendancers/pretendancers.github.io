@@ -2,6 +2,8 @@
 
 ## 开源文件
 
+***可能需要右键选择下载***
+
 <a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/plates/ortholinear.dxf">直列定位板</a>
 
 <a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/plates/staggered.dxf">斜列定位板</a>
@@ -10,7 +12,7 @@
 
 ## 固件
 
-<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Cheerz-vial-202503.uf2">v202503</a>
+<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Cheerz-vial-202503.uf2">Cheerz-vial-202503.uf2</a>
 更新
 
 - 新增 keyoverride
