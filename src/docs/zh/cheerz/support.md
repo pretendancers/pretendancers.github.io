@@ -12,8 +12,8 @@
 
 ## 固件
 
+v2025-03 更新 
 <a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Cheerz-vial-202503.uf2">Cheerz-vial-202503.uf2</a>
-更新
 
 - 新增 keyoverride
 - 层数追加到16层
