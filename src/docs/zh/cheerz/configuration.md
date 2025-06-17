@@ -32,4 +32,20 @@
 
 ![](/configuration/KB_Off.jpg)
 
-### 固件烧录
+## 固件烧录
+
+***<font color=red>请在有线连接下操作，PC/MAC环境均可</font>***
+
+- 绑定键值KB_DFU，触发后键盘进入DFU模式，vial失去设备识别。同时键盘有线连接的设备上会出现一个名为Zorokb_ada的驱动器
+
+![](/configuration/KB_DFU.jpg)
+
+![](/configuration/dfu_disk.jpg)
+
+- 将.uf2固件文件直接拖入该驱动器，键盘会开始烧录固件。
+
+![](/configuration/dfu_drag.jpg)
+
+- 固件烧录完成后，设备可能会出现异常报错（mac端会同时提示磁盘非正常推出），均为正常现象，可以直接关闭。此时键盘固件已经烧录完成，键盘自动退出DFU模式并恢复进行有线连接，vial也可以正常识别到。
+
+![](/configuration/dfu_warning.jpg)

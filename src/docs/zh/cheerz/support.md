@@ -4,11 +4,12 @@
 
 ***可能需要右键选择下载***
 
-<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/plates/ortholinear.dxf">直列定位板</a>
+<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/plates/ortholinear.dxf" download="ortholinear.dxf">直列定位板</a>
 
-<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/plates/staggered.dxf">斜列定位板</a>
+<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/plates/staggered.dxf" download="staggered.dxf">斜列定位板</a>
 
-<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/plates/universal.dxf">兼容定位板</a>
+<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/plates/universal.dxf" download="universal.dxf">兼容定位板</a>
+
 
 ## 固件
 
