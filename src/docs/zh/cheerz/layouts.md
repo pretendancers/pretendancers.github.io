@@ -27,7 +27,7 @@ Cheerz的配列在vial中有六个选择框，对应了键盘六处不同的配�
 
 *注：BAE需将实际触发的轴体安装在ANSI回车轴位上*
 
-![]/layouts/R1R.png)
+![](/layouts/R1R.png)
 
 - 第三行左半行可选斜列/直列
 

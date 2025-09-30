@@ -1,131 +1,95 @@
 # Contents
 
-After removing the plastic seal and withdrawing the sleeve, open the magnetic cover. The package should contain the following items:
+Remove the plastic seal and slide off the outer sleeve, then open the magnetic cover. The package includes the following items:
 
-### I - Main components
+## 01 - Main Components
 1. **Keyboard Case**
 
-		Upper and lower cases with screws fastened.
-		Pre-installed: 
-			USB-C Daughter Board
-			Short Flex Cable
-			Magnetic Daughter Board
-			Retaining Cover for Magnetic Daughterboard
-			Upper Case Light Diffuser
+	Top and bottom case set with pre-installed parts:
+		
+	- USB-C daughterboard
+	- Short FFC (16.5 mm, same-way)
+	- Magnetic daughterboard
+	- Magnetic daughterboard retaining cover
+	- Light diffuser
 
 2. **Main PCB**
 
-		Packaged in an anti-static bag.
+	Packed in an anti-static, ESD-safe bag.
 
 3. **Switch Plate**
 
-		Packaged in a resealable bag, available in three types: Universal/Ortholinear/Staggered.
+	Plate for universal, ortholinear or staggered layout, packaged in a resealable bag
 
-4. **Foam Set**
+4. **Foam Kit**
 	
-		PORON Bottom Foam
-		PORON Hot-Swap Socket Foam
-		IXPE Under-Switch Foam
-		PORON Plate Foam(three variants for Universal/Ortholinear/Staggered plate layouts)
+	- PORON case foam
+	- PORON PCB foam
+	- IXPE switch foam
+	- PORON plate foam (three variants matching the plate layouts)
 
-### II - Accessories
+## 02 - Accessories
 
-1. **Resealable Bag I**
+1. **Resealable Bag I (Screws)**
 
-	- **14 × M2 Hex Socket Screws (all spares)**
-			
-			Internal mounting screws, all spares.
+	- **M2 Hex Socket Screws ×14 (spares, for internal mounting)**
 
-	- **8 × M3 Hex Socket Screws (all spares)**
-
-			Case mounting screws, all spares.
+	- **M3 Hex Socket Screws ×8 (spares, for case assembly)**
 
 2. **Resealable Bag II**  
 
-	- **12 × Gasket Silicone Pads (8 in use, 4 spares)**
-			
-			For gasket mount installation.
+	- **Silicone gaskets ×12 (8 used, 4 spares)**
 
-	- **3 × Light-Blocking Foam Rings (1 in use, 2 spares)**
+	- **Light-blocking foam rings ×3 (1 used, 2 spares; adhesive-backed)**
 
-			Adhesive-backed,
-			Install around the center hole of the plate (refer to Installation Guide).
-		
-	- **3 × Short Flex Cables (all spares)**
-
-			Spec: 16.5mm L, 8-pin same-direction, 0.5mm pitch.
-			For connecting the USB-C and magnetic daughter boards, all spares.
+	- **Short FFCs ×3 (16.5mm, same-way; spares)**
 
 3. **Resealable Bag III**  
 
-	- **2 × Lithium Ion Batteries**
-
-			Electrical: 3.7V, 1400mAh, 5.18Wh,
-			Dimensions: 60mm × 32mm × 5mm,
-			Cable Length: 25mm,
-			Optional installation.
+	- **Li-ion Batteries ×2 (Optional)**
+		- Electrical: 3.7 V, 1400 mAh, 5.18 Wh,
+		- Dimensions: 60 × 32 × 5 mm,
+		- Cable: 25 mm length, MX1.25 51146 connector, 2-pin, ultra-thin
 
 4. **Resealable Bag IV**  
 
-	- **2 × Long Flex Cables (all spares)**
+	- **Long FFCs ×2 (60 mm, reverse; spares)**
 
-		<font color=Red><b>WARNING: DO NOT CONNECT LONG FLEX CABLE TO MAGNETIC DAUGHTER BOARD!</b></font>
-			Spec: 60mm L, 8-pin reverse, 0.5mm pitch
-			For connecting the USB-C daughter board and main PCB, all spares.
+		<font color=Red>**WARNING** For alternative wired installation only. Do not connect to magnetic daughterboard!</font>
+	 
+	- **Magnetic daughterboard retaining cover ×1 (spare, black FR4)**
 
-	
-	- **1 × Magnetic Daughter Board Retaining Cover (spare)**
+	- **Magnetic daughterboard bottom foam ×1 (spare, adhesive-backed)**
 
-			Material: Black FR4.
+	- **Adhesive foot pads ×16 (8 white, 8 black, 12 mm Ø × 2 mm thick)**
 
-	- **1 × Magnetic Daughter Board Bottom Foam (spare)**
+## 03 - Others
 
-			Stripe-shaped, adhesive-backed.
+- **​1.25mm Magnetic hex key​​ ×1 (for M2 screws; may require magnetization before first use.)**
 
-	- **16 × Footpads**
+- **​​2.5mm Magnetic hex key​​ ×1 (for M3 screws; may require magnetization before first use.)**
 
-			8 × White, 8 × Black, adhesive-backed.
-			Size: 12mm Φ × 2mm H
-			Optional installation.
+- **Cheerz washi tape ×1**
 
-### III - Others
-
-- **1 × 1.25mm Magnetic Hex Key**
-	
-		For M2 screws.
-	*If magnetism is weak, magnetize it with a strong magnet first.*
-
-- **1 × 2.5mm Magnetic Hex Key**
-
-		For M3 screws.
-	*If magnetism is weak, magnetize it with a strong magnet first.*
-
-- **1 × Cheerz Washi Tape**
-
-- **1 × PCB Socket Reference Card**
-
-		For switch installation guidance. With a QR code to this site printed on the back.
+- **PCB socket reference card ×1 (includes QR code to this site)**
 
 ![](/contents/contents.jpg)
 
-# Summary List
+## 04 - Summary List
 
-- 1 × Upper and Lower Case Set with Pre-Installations
-- 1 × Main PCB
-- 1 × Switch Plate
-- 1 × Foam Set (bottom/Hot-Swap socket/under-switch/plate foam)
-- 14 × M2 Hex Socket Screws (all spares)
-- 8 × M3 Hex Socket Screws (all spares)
-- 12 × Gasket Silicone Pads (8 in use, 4 spares)
-- 3 × Light-Blocking Foam Rings (1 in use, 2 spares)
-- 3 × Short Flex Cables (all spares)
-- 2 × Lithium Ion Batteries (optional installation)
-- 2 × Long Flex Cables (all spares)
-- 1 × Magnetic Daughter Board Retaining Cover (spare)
-- 1 × Magnetic Daughter Board Bottom Foam (spare)
-- 16 × Footpads (optional installation)
-- 1 × 1.25mm Magnetic Hex Key
-- 1 × 2.5mm Magnetic Hex Key
-- 1 × Cheerz Washi Tape
-- 1 × PCB Socket Reference Card
+- Top-bottom case set ×1 (with pre-installed parts)
+- Main PCB ×1
+- Switch plate ×1
+- Foam set ×1 (PORON & IXPE)
+- M2 screws ×14 (spare) + M3 screws ×8 (spare)
+- Silicone gaskets ×12 (8 used, 4 spares)
+- Light-blocking foam rings ×3 (1 used, 2 spares)
+- FFCs: Short ×3 (spare) + Long ×2 (spare)
+- Li-ion batteries ×2 (optional)
+- Magnetic daughterboard retaining cover ×1 (spare)
+- Magnetic daughterboard bottom foam ×1 (spare)
+- Adhesive foot pads ×16
+- Magnetic hex key ×2 (1.25 mm & 2.5 mm)
+- Cheerz washi tape ×1
+- PCB socket reference card ×1
 

@@ -17,7 +17,7 @@ function nav(zh: boolean): DefaultTheme.NavItem[] {
         { text: zh ? "包装清单" : "Contents", link: link(zh, "/cheerz/contents") },
         { text: zh ? "安装指南" : "Assembly", link: link(zh, "/cheerz/assembly") },
         { text: zh ? "键位配置" : "Configuration", link: link(zh, "/cheerz/configuration") },
-        { text: zh ? "下载支持" : "Support", link: link(zh, "/cheerz/support") },
+        { text: zh ? "下载支持" : "Downloads", link: link(zh, "/cheerz/downloads") },
         { text: zh ? "致谢" : "Credits", link: link(zh, "/cheerz/credits") },
       ],
     },
