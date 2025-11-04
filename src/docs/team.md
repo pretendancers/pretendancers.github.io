@@ -13,7 +13,7 @@ import {
 const coreMembers = [
 	{
 		avatar: '/about/0098.webp',
-		name: '0098',
+		name: 'CannedLychee',
 	},
 	{
 		avatar: '/about/earth.webp',
