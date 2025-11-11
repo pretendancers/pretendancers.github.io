@@ -32,7 +32,7 @@
 
 ![](/configuration/KB_Off.jpg)
 
-## 04 - Firmware Flashing
+## 04 - Keyboard Firmware Flashing
 
 ***<font color=red>Please perform this over a wired connection. Works on both PC and Mac</font>***
 
@@ -49,3 +49,18 @@
 - After flashing completes, an error prompt may appear (on macOS, it may also show a “disk not ejected properly” warning). This is normal—just close it. At this point, the firmware has already been flashed. The keyboard will automatically exit DFU mode, reconnect in wired mode, and Vial should recognize it again.
 
 ![](/configuration/dfu_warning.jpg)
+
+## 05 - 2.4G Dongle Firmware Flashing{#dongleFlash}
+
+***<font color=red>Connect the keyboard via a wired or 2.4GHz connection and the 2.4GHz dongle must be plugged into the device. Works on both PC and Mac</font>***
+
+- Press the pre-configured **<font color=red>KC_DFU</font>**​ key to put the 2.4G dongle into DFU mode. A drive named **<font color=red>Zorokb_24G</font>** will then appear on the host.
+
+![](/configuration/kcdfu_disk.jpg)
+
+
+- Drag and drop the **<font color=red>.uf2</font>** firmware file that starts with "Zoro-kbd-2.4G-Receiver" onto the drive. The dongle will begin flashing the firmware.
+
+![](/configuration/kcdfu_drag.jpg)
+
+- Also, after the flashing process is complete, you may see the same error prompts, but the firmware has been successfully updated. To proceed, unplug the dongle from the host and plug it back in. The dongle will then exit DFU mode and be ready for connections.
