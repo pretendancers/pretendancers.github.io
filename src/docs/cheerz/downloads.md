@@ -29,5 +29,5 @@
 
 - ***<font color='red'>Before upgrading the keyboard firmware, please first update the 2.4g dongle firmware to version 2025-10.</font>*** ***[-> Instruction](./configuration.md#dflash)***
 - Rebuilt from the latest Vial source code with new Vial features.
-- Layouts are now saved automatically; the [S_DATA] key has been removed.
+- Keymap is now saved automatically on changes; the [S_DATA] key has been removed.
 - **Flashing new firmware will reset your layouts. Therefore, please save your layout beforehand and ensure it <font color='red'>contains no S_DATA key</font>.**
