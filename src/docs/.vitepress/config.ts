@@ -50,7 +50,7 @@ export const zh = defineConfig({
     nav: nav(true),
     notFound: {
       code: "404",
-      title: "这 页 面 谁 啊 我 把 它 踢 了",
+      title: "没 有 这 个 页 面 喵",
       quote: "",
       linkLabel: "",
       linkText: "首页",
@@ -74,8 +74,8 @@ const shared = defineConfig({
     //   provider: "local",
     // },
     footer: {
-      message: "pretendancers 2025",
-      copyright: "powered by VitePress",
+      message: "powered by VitePress",
+      copyright: "© 2024-present <a href='https://github.com/pretendancers' target='_blank'>pretendancers</a> ",
     },
   },
   outDir: "../../docs",

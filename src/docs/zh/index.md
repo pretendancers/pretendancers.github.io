@@ -9,8 +9,12 @@ hero:
         src: /about/ptdc_hero.png
     actions:
         -   theme: brand
-            text: 预览版本
+            text: 开始
+            link: "./cheerz/layouts.md"
+        -   theme: alt
+            text: 下载
+            link: "./cheerz/downloads.md"
         -   theme: alt
             text: ੭ ᐕ)੭*⁾⁾
-            link: "https://github.com/pretendancers"
+            link: "https://qm.qq.com/q/q1S6PJbN5I"
 ---

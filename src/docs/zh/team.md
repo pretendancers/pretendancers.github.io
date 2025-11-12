@@ -14,6 +14,10 @@ const coreMembers = [
 	{
 		avatar: '/about/0098.webp',
 		name: '0098',
+		links: [
+			{ icon: 'maildotru', link: 'mailto:cannedlychee@aliyun.com' },
+			{ icon: 'qq', link: 'https://qm.qq.com/q/SabaAcjx6'}
+		]
 	},
 	{
 		avatar: '/about/earth.webp',

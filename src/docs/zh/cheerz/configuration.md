@@ -32,7 +32,7 @@
 
 ![](/configuration/KB_Off.jpg)
 
-## 04 - 固件烧录
+## 04 - 键盘固件烧录
 
 ***<font color=red>请在有线连接下操作，PC/MAC环境均可</font>***
 
@@ -49,3 +49,20 @@
 - 固件烧录完成后，设备可能会出现异常报错（mac端会同时提示磁盘非正常推出），均为正常现象，可以直接关闭。此时键盘固件已经烧录完成，键盘自动退出DFU模式并恢复进行有线连接，vial也可以正常识别到。
 
 ![](/configuration/dfu_warning.jpg)
+
+## 05 - 2.4G接收器固件烧录{#dflash}
+
+***键盘在<font color=red>有线或2.4G连接</font>下，确保接收器连接到主机，PC/MAC环境均可***
+
+- 按下配置好的<font color=red>**KC_DFU**</font>键，​2.4G接收器将进入DFU模式，主机上将出现名字为<font color=red>**Zorokb_24g**</font>的驱动器.
+
+![](/configuration/kcdfu_disk.jpg)
+
+
+- 把以"Zoro-kbd-2.4G-Receiver"开头的.uf2接收器固件文件直接拖入驱动中，接收器开始固件烧录。
+
+![](/configuration/kcdfu_drag.jpg)
+
+- 和键盘一样，烧录完成后，设备可能会出现类似的报错信息，次数固件已经正常更新完成可以直接关闭。重新插拔接收器，接收器将退出DFU模式并可以直接连接键盘。
+
+- 另外，连接接收器并打开Vial时，会看见vial可以读取到名为"Zoroada ZORO KBD 2.4G Receiver"的，键位只有一个按键的设备，其中的配置修改等均不会有任何作用，也不影响接收器的正常使用，忽略即可。

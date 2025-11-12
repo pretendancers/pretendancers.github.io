@@ -42,7 +42,7 @@
 
 ![](/configuration/dfu_disk.jpg)
 
-- Drag the **<font color=red>.uf2</font>** firmware file directly into this drive. The keyboard will start flashing the firmware.
+- Drag the .uf2 firmware file directly into this drive. The keyboard will start flashing the firmware.
 
 ![](/configuration/dfu_drag.jpg)
 
@@ -50,17 +50,19 @@
 
 ![](/configuration/dfu_warning.jpg)
 
-## 05 - 2.4G Dongle Firmware Flashing{#dongleFlash}
+## 05 - 2.4G Dongle Firmware Flashing{#dflash}
 
-***<font color=red>Connect the keyboard via a wired or 2.4GHz connection and the 2.4GHz dongle must be plugged into the device. Works on both PC and Mac</font>***
+***Connect the keyboard via a <font color=red>wired or 2.4GHz connection</font> and the 2.4GHz dongle must be plugged into the device. Works on both PC and Mac***
 
-- Press the pre-configured **<font color=red>KC_DFU</font>**​ key to put the 2.4G dongle into DFU mode. A drive named **<font color=red>Zorokb_24G</font>** will then appear on the host.
+- Press the pre-configured <font color=red>**KC_DFU**</font>​ key to put the 2.4G dongle into DFU mode. A drive named <font color=red>**Zorokb_24G**</font> will then appear on the host.
 
 ![](/configuration/kcdfu_disk.jpg)
 
 
-- Drag and drop the **<font color=red>.uf2</font>** firmware file that starts with "Zoro-kbd-2.4G-Receiver" onto the drive. The dongle will begin flashing the firmware.
+- Drag and drop the .uf2 firmware file starting with "Zoro-kbd-2.4G-Receiver" onto the drive. The dongle will begin flashing the firmware.
 
 ![](/configuration/kcdfu_drag.jpg)
 
-- Also, after the flashing process is complete, you may see the same error prompts, but the firmware has been successfully updated. To proceed, unplug the dongle from the host and plug it back in. The dongle will then exit DFU mode and be ready for connections.
+- After the flashing process is complete, you may see the similar error prompts, but the firmware has been successfully updated. To proceed, unplug the dongle from the host and plug it back in. The dongle will then exit DFU mode and be ready for use.
+
+- Also, after connecting the dongle and launching Vial, an interface named "Zoroada ZORO KBD 2.4G Receiver" may appear, showing only a single key. Any configuration changes on this interface are non-functional and will not affect the dongle’s normal use. Please disregard it.

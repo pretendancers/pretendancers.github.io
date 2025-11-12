@@ -13,8 +13,11 @@ hero:
         src: "/about/ptdc_hero.png"
     actions:
         -   theme: brand
-            text: PREVIEW
+            text: START
+            link: "./cheerz/layouts.md"
+        -   theme: alt
+            text: Downloads
+            link: "./cheerz/downloads.md"
         -   theme: alt
             text: ੭ ᐕ)੭*⁾⁾
-            link: "https://github.com/pretendancers"
 ---
