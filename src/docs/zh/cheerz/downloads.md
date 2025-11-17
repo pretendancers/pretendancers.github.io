@@ -23,7 +23,7 @@
 
 ### **v2025-11**
 
-<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Cheerz-vial_202511.uf2">Cheerz-vial_202511.uf2</a>
+<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Cheerz-vial_202511v2.uf2">Cheerz-vial_202511v2.uf2</a>
 
 <a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Zoro-kbd-2.4G-Receiver_202510.uf2">Zoro-kbd-2.4G-Receiver_202510.uf2</a>
 
@@ -31,3 +31,4 @@
 - 基于最新Vial源码版本重新编译，更新相应新功能
 - 键位跟随修改自动保存，S_DATA手动保存键值移除
 - **更新键盘固件后键位会重置，请在刷机前保存键位并确保配置中<font color='red'>没有S_DATA键</font>**
+- v2: 修复Quick Tap Term设置不生效的问题
