@@ -23,7 +23,7 @@
 
 ### **v2025-11**
 
-<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Cheerz-vial_202511v2.uf2">Cheerz-vial_202511v2.uf2</a>
+<a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Cheerz-vial_202511.uf2">Cheerz-vial_202511.uf2</a>
 
 <a href="https://raw.githubusercontent.com/pretendancers/pretendancers.github.io/refs/heads/main/public/firmwares/Zoro-kbd-2.4G-Receiver_202510.uf2">Zoro-kbd-2.4G-Receiver_202510.uf2</a>
 
@@ -31,4 +31,3 @@
 - Rebuilt from the latest Vial source code with new Vial features.
 - Keymap is now saved automatically on changes; the [S_DATA] key has been removed.
 - **Flashing new firmware will reset your layouts. Therefore, please save your layout beforehand and ensure it <font color='red'>contains no S_DATA key</font>.**
-- v2: Resolved issues with Quick Tap Term configurations
